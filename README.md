@@ -1,5 +1,8 @@
-# Boletim Escolar em Python
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black)
+![License](https://img.shields.io/badge/License-MIT-green)
 
+# Boletim Escolar em Python
 Este é um projeto simples em Python que calcula a média de um aluno com base em três notas e informa se ele foi aprovado, está em recuperação ou reprovado, considerando também a frequência.
 
 ## Objetivo
